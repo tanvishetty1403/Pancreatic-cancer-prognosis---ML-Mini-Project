@@ -35,5 +35,5 @@ The tuned numbers are the best of a sweep chosen on the same CV, so they are sli
 - `risk_scores_oof.csv`: out-of-fold risk scores (used for KM curves and log-rank)
 
 ## Team
-- [Your name]: data, modelling, cross-validation
-- [B's name]: survival curves, plots, demo
+- Tanvi. B. Shetty [PES1UG24AM302]: data, modelling, cross-validation
+- Y. V. Bhavana [PES1UG24AM328]: survival curves, plots, demo
