@@ -1,8 +1,6 @@
+streamlit
 pandas
 numpy
+matplotlib
 lifelines
 scikit-learn
-matplotlib
-jupyter
-streamlit
-python-pptx
