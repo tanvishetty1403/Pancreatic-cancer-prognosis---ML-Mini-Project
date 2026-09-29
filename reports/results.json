@@ -1,0 +1,43 @@
+{
+  "n": 176,
+  "events": 92,
+  "logrank_chi2": 15.156254766496538,
+  "logrank_p": 9.896990711702166e-05,
+  "hr_high_vs_low": 2.2642018119083374,
+  "hr_lo": 1.483938377974325,
+  "hr_hi": 3.4547322996303684,
+  "pooled_oof_cindex": 0.6590366673898893,
+  "median_os_low": 34.81605681,
+  "median_os_high": 15.55051452,
+  "stage_logrank_p": null,
+  "top_genes": [
+    "LY6D",
+    "PSCA"
+  ],
+  "top_clinical": [
+    {
+      "covariate": "n_positive",
+      "HR": 1.218,
+      "lo": 0.936,
+      "hi": 1.587,
+      "z": 1.466,
+      "p": 0.143
+    },
+    {
+      "covariate": "radiation_therapy",
+      "HR": 0.813,
+      "lo": 0.616,
+      "hi": 1.074,
+      "z": -1.454,
+      "p": 0.146
+    },
+    {
+      "covariate": "site_C25.1",
+      "HR": 0.73,
+      "lo": 0.471,
+      "hi": 1.132,
+      "z": -1.404,
+      "p": 0.16
+    }
+  ]
+}

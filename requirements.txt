@@ -4,3 +4,5 @@ lifelines
 scikit-learn
 matplotlib
 jupyter
+streamlit
+python-pptx
