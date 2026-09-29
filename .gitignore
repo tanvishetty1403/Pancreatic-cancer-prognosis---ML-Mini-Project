@@ -3,6 +3,7 @@ paad_tcga_pan_can_atlas_2018/
 prad_tcga_pan_can_atlas_2018/
 *.tar.gz
 *.pkl
+!data/processed/demo_bundle.pkl
 __pycache__/
 .ipynb_checkpoints/
 trial.py
